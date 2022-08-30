@@ -1,0 +1,11 @@
+{
+  "name": "number_generator",
+  "version": "1.0.0",
+  "description": "a simple number generator",
+  "main": "iteration.js",
+  "scripts": {
+    "test": "node iteration.js 20 1 2 5"
+  },
+  "author": "",
+  "license": "ISC"
+}
